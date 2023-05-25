@@ -1,0 +1,4 @@
+.navLi:first-child{
+    color: #c39a58 !important;
+    border-bottom: 2px solid #c39a58;
+}
